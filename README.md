@@ -35,9 +35,9 @@ datasets.
 
 * Page 140 (second point): **Select Percentage of column.** _should be_ **Select Percentage of row.**
 * Page 140:
-<img src="https://drive.google.com/file/d/1NxDFl1K9wp0P6vnqpx7eFueP3AAtFOv4/view?usp=sharing" height="256px" align="center"> 
+<img src="https://github.com/PacktPublishing/IBM-SPSS-Modeler-Essentials/blob/master/B07759_08_06.png" height="256px" align="center"> 
 _should be_ 
-<img src="https://drive.google.com/file/d/1XWPTG12m2BMXtHvdI_r4X2eMJkz7f17W/view?usp=sharing" height="256px" align="center">
+<img src="https://github.com/PacktPublishing/IBM-SPSS-Modeler-Essentials/blob/master/Screen%20Shot%202020-08-14%20at%201.32.43%20PM%20(1).png" height="256px" align="center">
 
 * Page 141 (line 2): **For instance, only 4.5% of the people that fall into the less than $50,000 group have investments, whereas 24.9% of the people that fall into the more than $50,000 group have investments.** _should be_ **For instance, only 16.6% of the people that fall into the less than $50,000 group have investments, whereas 58.3% of the people that fall into the more than $50,000 group have investments.**
 
